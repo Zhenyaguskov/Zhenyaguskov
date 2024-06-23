@@ -3,7 +3,7 @@
 <h3 align="center">QA Testing 🦢</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GHidDL9XwkkAAAAC/lelouch-vi.gif">
 
-- 🌱 В настоящее время я учусь **pentest courses**
+- 🌱 В настоящее время я учусь **better testing**
 
 - 👯 Я хочу сотрудничать над **Your project**
 
